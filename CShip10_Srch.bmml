@@ -1,0 +1,169 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
+  <controls>
+    <control controlID="118" controlTypeID="__group__" x="384" y="217" w="366" h="379" measuredW="366" measuredH="379" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="33" w="366" h="346" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="118"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="52" w="110" h="-1" measuredW="72" measuredH="21" zOrder="1" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>+Shipment%23</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="15" y="194" w="111" h="-1" measuredW="103" measuredH="21" zOrder="2" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>To%20Location/CLLI</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="15" y="170" w="131" h="-1" measuredW="118" measuredH="21" zOrder="3" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>From%20Location/CLLI</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="15" y="142" w="111" h="-1" measuredW="67" measuredH="21" zOrder="4" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Shipped%20By</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="99" y="340" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="5" locked="false" isInGroup="118">
+          <controlProperties>
+            <href>CShip10%26bm%3BCShip10.bmml%26bm%3BCShip10.bmml%26bm%3BCShip10.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22466%2C528%2C528%2C552%22%20href%3D%22CShip10.bmml%22%20alt%3D%22CShip10%22%20id%3D%2211%22/%3E</map>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="203" y="340" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="6" locked="false" isInGroup="118">
+          <controlProperties>
+            <href>CShip10%26bm%3BCShip10.bmml%26bm%3BCShip10.bmml%26bm%3BCShip10.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C528%2C633%2C552%22%20href%3D%22CShip10.bmml%22%20alt%3D%22CShip10%22%20id%3D%2212%22/%3E</map>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="52" w="156" h="-1" measuredW="81" measuredH="24" zOrder="7" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>SN-008343</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="141" w="156" h="-1" measuredW="57" measuredH="24" zOrder="8" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>ATTUID</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="108" w="156" h="-1" measuredW="87" measuredH="24" zOrder="9" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Current%20Date</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="79" w="156" h="-1" measuredW="146" measuredH="24" zOrder="10" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Current%20Date%20-%2014%20days</text>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="0" w="364" h="37" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="163" y="8" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="12" locked="false" isInGroup="118">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+        <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="325" y="50" w="32" h="30" measuredW="32" measuredH="30" zOrder="13" locked="false" isInGroup="118">
+          <controlProperties>
+            <src>./assets/symbols.bmml#BarcodeImage</src>
+          </controlProperties>
+        </control>
+        <control controlID="30" controlTypeID="com.balsamiq.mockups::Component" x="325" y="165" w="32" h="30" measuredW="32" measuredH="30" zOrder="14" locked="false" isInGroup="118">
+          <controlProperties>
+            <src>./assets/symbols.bmml#BarcodeImage</src>
+          </controlProperties>
+        </control>
+        <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="15" y="223" w="111" h="-1" measuredW="74" measuredH="21" zOrder="15" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Return%20Type</text>
+          </controlProperties>
+        </control>
+        <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="15" y="250" w="111" h="-1" measuredW="64" measuredH="21" zOrder="16" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Item/HECI</text>
+          </controlProperties>
+        </control>
+        <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="15" y="280" w="111" h="-1" measuredW="43" measuredH="21" zOrder="17" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Order%23</text>
+          </controlProperties>
+        </control>
+        <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="15" y="80" w="154" h="-1" measuredW="150" measuredH="21" zOrder="18" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Shipment%20Create%20From%20Dt</text>
+          </controlProperties>
+        </control>
+        <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="195" w="156" h="-1" measuredW="83" measuredH="24" zOrder="19" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>DC%20Location</text>
+          </controlProperties>
+        </control>
+        <control controlID="44" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="169" w="156" h="-1" measuredW="79" measuredH="23" zOrder="20" locked="false" isInGroup="118">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="249" w="156" h="-1" measuredW="79" measuredH="23" zOrder="21" locked="false" isInGroup="118">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="53" controlTypeID="com.balsamiq.mockups::ComboBox" x="169" y="221" w="156" h="-1" measuredW="30" measuredH="24" zOrder="22" locked="false" isInGroup="118">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="15" y="109" w="154" h="-1" measuredW="135" measuredH="21" zOrder="23" locked="false" isInGroup="118">
+          <controlProperties>
+            <text>Shipment%20Create%20To%20Dt</text>
+          </controlProperties>
+        </control>
+        <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="169" y="279" w="156" h="-1" measuredW="79" measuredH="23" zOrder="24" locked="false" isInGroup="118">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="56" controlTypeID="com.balsamiq.mockups::Component" x="325" y="194" w="32" h="30" measuredW="32" measuredH="30" zOrder="25" locked="false" isInGroup="118">
+          <controlProperties>
+            <src>./assets/symbols.bmml#BarcodeImage</src>
+          </controlProperties>
+        </control>
+        <control controlID="57" controlTypeID="com.balsamiq.mockups::Component" x="325" y="245" w="32" h="30" measuredW="32" measuredH="30" zOrder="26" locked="false" isInGroup="118">
+          <controlProperties>
+            <src>./assets/symbols.bmml#BarcodeImage</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Component" x="17" y="29" w="1100" h="755" measuredW="1100" measuredH="755" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E</map>
+        <src>./assets/symbols.bmml#iPad</src>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="970" h="29"/>
+        <override controlID="1" x="2" y="1" w="-1" h="-1"/>
+        <override controlID="2" x="450" y="4" w="-1" h="-1">
+          <text>CIM%20-%20Shipping%20Label</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#CIM%20Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Component" x="61" y="97" w="489" h="48" measuredW="489" measuredH="48" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C68%2C141%2C116%22%20href%3D%22CShip10_Srch.bmml%22%20alt%3D%22CShip10_Srch%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#Toolbar_ShipLbl</src>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::ModalScreen" x="43" y="70" w="987" h="672" measuredW="318" measuredH="240" zOrder="3" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

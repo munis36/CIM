@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="17" y="29" w="1100" h="755" measuredW="1100" measuredH="755" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E</map>
+        <src>./assets/symbols.bmml#iPad</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="970" h="29"/>
+        <override controlID="1" x="2" y="1" w="-1" h="-1"/>
+        <override controlID="2" x="449" y="4" w="-1" h="-1">
+          <align>center</align>
+          <text>My%20Preferences</text>
+        </override>
+        <src>./assets/symbols.bmml#CIM%20Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="189" y="221" w="-1" h="-1" measuredW="149" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>+My%20Truck%20Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Label" x="189" y="265" w="-1" h="-1" measuredW="195" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>My%20Garage%20Location/CLLI</text>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::TextArea" x="522" y="220" w="195" h="29" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::TextArea" x="522" y="264" w="195" h="29" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Button" x="60" y="98" w="51" h="44" measuredW="51" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CMySettings%26bm%3BCMySettings.bmml%26bm%3BCMySettings.bmml%26bm%3BCMySettings.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C69%2C94%2C113%22%20href%3D%22CMySettings.bmml%22%20alt%3D%22CMySettings%22%20id%3D%22177%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Button" x="111" y="98" w="63" h="44" measuredW="54" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CMySettings%26bm%3BCMySettings.bmml%26bm%3BCMySettings.bmml%26bm%3BCMySettings.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C69%2C157%2C113%22%20href%3D%22CMySettings.bmml%22%20alt%3D%22CMySettings%22%20id%3D%22178%22/%3E</map>
+        <text>Clear</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Label" x="189" y="395" w="-1" h="-1" measuredW="188" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Copy%20to%20e-mail%20for%20labels</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::TextArea" x="522" y="394" w="195" h="29" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Label" x="189" y="309" w="-1" h="-1" measuredW="173" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>My%20Supervisor%20ATTUID</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::TextArea" x="522" y="308" w="195" h="29" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::Label" x="189" y="434" w="-1" h="-1" measuredW="139" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>+Mandatory%20fields</text>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Label" x="189" y="353" w="-1" h="-1" measuredW="307" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>+My%20Disctribution%20Center%20Location/CLLI</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::TextArea" x="522" y="352" w="195" h="29" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::RadioButton" x="338" y="168" w="-1" h="-1" measuredW="16" measuredH="23" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CMySettings_Tech%26bm%3BCMySettings_Tech.bmml%26bm%3BCMySettings_Tech.bmml%26bm%3BCMySettings_Tech.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C139%2C337%2C162%22%20href%3D%22CMySettings_Tech.bmml%22%20alt%3D%22CMySettings_Tech%22%20id%3D%22190%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Paragraph" x="189" y="169" w="149" h="22" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>I%20am%20a%20Technician</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Paragraph" x="406" y="169" w="141" h="22" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>or%20a%20Supervisor</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::RadioButton" x="553" y="168" w="-1" h="-1" measuredW="16" measuredH="23" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>CMySettings_Supervisor%26bm%3BCMySettings_Supervisor.bmml%26bm%3BCMySettings_Supervisor.bmml%26bm%3BCMySettings_Supervisor.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22536%2C139%2C552%2C162%22%20href%3D%22CMySettings_Supervisor.bmml%22%20alt%3D%22CMySettings_Supervisor%22%20id%3D%22193%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Canvas" x="155" y="196" w="599" h="303" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

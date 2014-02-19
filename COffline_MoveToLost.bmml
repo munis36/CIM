@@ -1,0 +1,189 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="17" y="29" w="1100" h="755" measuredW="1100" measuredH="755" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E</map>
+        <src>./assets/symbols.bmml#iPad</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="61" y="68" w="56" h="25" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16750848</color>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="__group__" x="59" y="68" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="970" h="29" measuredW="970" measuredH="29" zOrder="0" locked="false" isInGroup="51">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C40%2C92%2C67%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C40%2C92%2C67%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C40%2C92%2C67%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="970" h="29"/>
+            <override controlID="1" x="2" y="1" w="-1" h="-1"/>
+            <override controlID="2" x="425" y="4" w="-1" h="-1">
+              <text>Edit%20%20Move%20To%20Lost%20Transaction</text>
+            </override>
+            <override controlID="-1"/>
+            <src>./assets/symbols.bmml#CIM%20Header</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Button" x="519" y="700" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="250" y="151" w="155" h="-1" measuredW="89" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Move%20To%20Lost</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="83" y="153" w="152" h="-1" measuredW="109" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Transaction%20Type%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="83" y="642" w="72" h="-1" measuredW="62" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Message%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="170" y="642" w="839" h="-1" measuredW="330" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <state>disabled</state>
+        <text>Some%20Error/Success%20Message%20returned%20by%20API%20after%20Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="__group__" x="83" y="213" w="443" h="168" measuredW="443" measuredH="168" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="443" h="168" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>From</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="197" y="31" w="168" h="-1" measuredW="68" measuredH="24" zOrder="1" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>10541396</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="27" y="32" w="113" h="-1" measuredW="63" measuredH="21" zOrder="2" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>*Location%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="197" y="69" w="168" h="-1" measuredW="51" measuredH="24" zOrder="3" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>SPARE</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="27" y="70" w="113" h="-1" measuredW="52" measuredH="21" zOrder="4" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>*Status%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="197" y="107" w="168" h="-1" measuredW="72" measuredH="24" zOrder="5" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>12239343</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="27" y="108" w="113" h="-1" measuredW="57" measuredH="21" zOrder="6" locked="false" isInGroup="80">
+          <controlProperties>
+            <text>Job/CLO%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="81" controlTypeID="__group__" x="566" y="213" w="443" h="352" measuredW="443" measuredH="352" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="443" h="352" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>To</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="201" y="32" w="168" h="-1" measuredW="70" measuredH="24" zOrder="1" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>10545927</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="31" y="33" w="113" h="-1" measuredW="63" measuredH="21" zOrder="2" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>*Location%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="31" y="71" w="113" h="-1" measuredW="52" measuredH="21" zOrder="3" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>*Status%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="201" y="108" w="168" h="-1" measuredW="119" measuredH="24" zOrder="4" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>ATT.COPI540AAA</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="31" y="109" w="113" h="-1" measuredW="77" measuredH="21" zOrder="5" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>*Item/HECI%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="31" y="153" w="113" h="-1" measuredW="108" measuredH="21" zOrder="6" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>*Transaction%20Qty%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="31" y="205" w="113" h="-1" measuredW="42" measuredH="21" zOrder="7" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>Notes%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="198" y="205" w="230" h="88" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>Test%20Transaction</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="230" y="152" w="54" h="-1" measuredW="16" measuredH="24" zOrder="9" locked="false" isInGroup="81">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="201" y="151" w="20" h="24" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="81">
+          <controlProperties>
+            <src>./Orb_minus.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="292" y="151" w="21" h="24" measuredW="48" measuredH="48" zOrder="11" locked="false" isInGroup="81">
+          <controlProperties>
+            <src>./Orb_plus.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="201" y="69" w="168" h="-1" measuredW="46" measuredH="24" zOrder="12" locked="false" isInGroup="81">
+          <controlProperties>
+            <state>disabled</state>
+            <text>LOST</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Button" x="606" y="700" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::PointyButton" x="61" y="67" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::StickyNote" x="61" y="416" w="499" h="155" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+One%20Screen%20that%20dynamically%20changes%20the%20fields%20based%20on%20Transaction%20type%0A+All%20fields%20are%20pre-populated%20with%20the%20values%20from%20JSON%20payload%0A+Fields%20marked%20with%20%27*%27%20are%20mandatory%0A+Unless%20greyed%20out%20all%20fields%20are%20editable%0A+Dropdown%20values%20need%20to%20be%20consistent%20with%20the%20corresponding%20values%20from%20respective%20screens%0A+After%20%27Submit%27%20the%20succes/error%20message%20can%20be%20displayed%20on%20the%20status%20label%0A+%27Cancel%27%20or%20%27Back%27%20will%20navigate%20back%20to%20parent%20screen</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

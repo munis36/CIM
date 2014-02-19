@@ -1,0 +1,92 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="17" y="29" w="1100" h="755" measuredW="1100" measuredH="755" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E</map>
+        <src>./assets/symbols.bmml#iPad</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu00.bmml%22%20alt%3D%22CMenu00%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu00.bmml%22%20alt%3D%22CMenu00%22%20id%3D%221%22/%3E</map>
+        <override controlID="1">
+          <href>CMenu00%26bm%3BCMenu00.bmml%26bm%3BCMenu00.bmml%26bm%3BCMenu00.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml#CIM%20Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Component" x="60" y="132" w="971" h="594" measuredW="971" measuredH="594" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="65">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="35">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="55">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="25">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="76">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="45">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <override controlID="15">
+          <icon>XIcon%7Cxsmall</icon>
+          <text>Remove%20from%20View</text>
+        </override>
+        <src>./assets/symbols.bmml#iPadListView</src>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="69" w="968" h="663" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="__group__" x="409" y="371" w="273" h="117" measuredW="273" measuredH="117" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="33" w="273" h="84" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="71"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="69" y="42" w="141" h="-1" measuredW="107" measuredH="21" zOrder="1" locked="false" isInGroup="71">
+          <controlProperties>
+            <text>Install%20Successful</text>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="37" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="71">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="15" y="8" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="3" locked="false" isInGroup="71">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Message</text>
+          </controlProperties>
+        </control>
+        <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="101" y="78" w="-1" h="-1" measuredW="40" measuredH="24" zOrder="4" locked="false" isInGroup="71">
+          <controlProperties>
+            <href>COpr10_InstallOpt%26bm%3BCOpr10_InstallOpt.bmml%26bm%3BCOpr10_InstallOpt.bmml%26bm%3BCOpr10_InstallOpt.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22493%2C420%2C533%2C444%22%20href%3D%22COpr10_InstallOpt.bmml%22%20alt%3D%22COpr10_InstallOpt%22%20id%3D%2239%22/%3E</map>
+            <text>OK</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Component" x="60" y="93" w="352" h="39" measuredW="352" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22121%2C64%2C209%2C103%22%20href%3D%22COpr10.bmml%22%20alt%3D%22COpr10%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22209%2C64%2C293%2C102%22%20href%3D%22COpr_Install.bmml%22%20alt%3D%22COpr_Install%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22293%2C64%2C395%2C102%22%20href%3D%22COpr10_RtnToDC.bmml%22%20alt%3D%22COpr10_RtnToDC%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C64%2C124%2C103%22%20href%3D%22COpr10_Srch.bmml%22%20alt%3D%22COpr10_Srch%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22121%2C64%2C209%2C103%22%20href%3D%22COpr10.bmml%22%20alt%3D%22COpr10%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22209%2C64%2C293%2C102%22%20href%3D%22COpr_Install.bmml%22%20alt%3D%22COpr_Install%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22293%2C64%2C395%2C102%22%20href%3D%22COpr10_RtnToDC.bmml%22%20alt%3D%22COpr10_RtnToDC%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C64%2C124%2C103%22%20href%3D%22COpr10_Srch.bmml%22%20alt%3D%22COpr10_Srch%22%20id%3D%227%22/%3E</map>
+        <src>./assets/symbols.bmml#CIM_Toolbar</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
